@@ -1,0 +1,6 @@
+{
+  "name": "JalDrishti AI",
+  "description": "Geospatial Intelligence for Watershed Development - AI & GIS-powered interpretation of geo-coded imagery for sustainable land, water, vegetation and drainage management (SIH26015).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
